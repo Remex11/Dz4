@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dz4", "Dz4\Dz4.vcxproj", "{04919F36-3194-4A21-9DE3-E7417F183B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Debug|x64.ActiveCfg = Debug|x64
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Debug|x64.Build.0 = Debug|x64
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Debug|x86.ActiveCfg = Debug|Win32
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Debug|x86.Build.0 = Debug|Win32
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Release|x64.ActiveCfg = Release|x64
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Release|x64.Build.0 = Release|x64
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Release|x86.ActiveCfg = Release|Win32
+		{04919F36-3194-4A21-9DE3-E7417F183B95}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D903AF70-D46A-43F5-A161-E824F8B791DC}
+	EndGlobalSection
+EndGlobal
